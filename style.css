@@ -1,0 +1,24 @@
+<style>
+.body{
+    background-color: chartreuse
+}
+
+            .daftar{
+                margin: auto;
+                width: 350px;
+                padding: 25px;
+                border: 1px solid black;
+                background: chartreuse;
+            }
+.batas{
+    background: black;
+}
+            .nilai{
+                margin: auto;
+                margin-top: 20px;
+                width: 250px;
+                padding: 20px;
+                border: 2px solid black;
+                background: mediumpurple ;
+            }
+        </style>
